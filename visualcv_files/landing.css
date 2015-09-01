@@ -7657,16 +7657,16 @@ span,
     animation-name: fadeInUp
 }
 .thin {
-    font-family: 'Noto', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 300
 }
 input,
 body {
-    font-family: 'Noto', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400
 }
 strong {
-    font-family: 'Noto', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 700
 }
 body {
@@ -11163,7 +11163,7 @@ ul.inline li {
 }
 .signup-form input,
 .signup-form button {
-    font-family: "Noto", sans-serif;
+    font-family: "Open Sans", sans-serif;
     font-size: 18px;
     font-weight: 300;
     border-radius: 2px;
